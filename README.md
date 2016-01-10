@@ -14,7 +14,7 @@ These tutorials teach you how to build a simple todo app.
 Both apps are currently running on the Meteor test server. Click the links below to get an impression.
 
 [Simple TODO List App](http://simpletodo_jhooge.meteor.com)  
-[Simple TODO List App using React.js](http://simpletodois_react_jhooge.meteor.com) 
+[Simple TODO List App using React.js](http://simpletodos_react_jhooge.meteor.com) 
 
 ## References:
 [Meteor.com](https://www.meteor.com)  
