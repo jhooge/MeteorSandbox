@@ -1,6 +1,6 @@
 # MeteorSandbox
 
-This repository include some tutorial JavaScript code taken from [meteor.com]{https://www.meteor.com/tutorials/blaze/creating-an-app}
+This repository include some tutorial JavaScript code taken from [meteor.com](https://www.meteor.com/tutorials/blaze/creating-an-app)
 
 These tutorials teach you how to build a simple todo app.
 
