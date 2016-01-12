@@ -20,5 +20,5 @@ All apps are currently running on the Meteor test server. Click the links below 
 ## References:
 [Meteor.com](https://www.meteor.com)  
 [React.js](https://facebook.github.io/react/index.html)  
-[The Beer Dashboard by Rafael Quintanilha]{http://rafaelquintanilha.com/real-time-charts-with-meteor-react-and-d3/}
+[The Beer Dashboard by Rafael Quintanilha](http://rafaelquintanilha.com/real-time-charts-with-meteor-react-and-d3/)
 
