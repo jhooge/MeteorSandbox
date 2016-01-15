@@ -1,10 +1,10 @@
 Sample = React.createClass({
-    propTypes: {
-        sample: React.PropTypes.object.isRequired
-    },
+//    propTypes: {
+//        sample: React.PropTypes.object.isRequired
+//    },
     render() {
         return (
-            <li>{this.props.sample.cellSize}</li>
+            <li>{this.props.cellSize}</li>
         );
     }
 });
