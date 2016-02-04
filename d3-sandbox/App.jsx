@@ -19,8 +19,7 @@ App = React.createClass({
     render: function() {
         return (
             <div className="container">
-              <MaterializeComponent />
-              <Chart data={this.state.data} domain={this.state.domain} />
+              <MyReactChart />
             </div>
         );
     }

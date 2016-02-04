@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/template.index.js"],"names":[],"mappings":"YAAA;AACA;AACA;AACA;AACA;AACA","file":"/template.index.js","sourcesContent":["\nTemplate.body.addContent((function() {\n  var view = this;\n  return HTML.Raw('<div id=\"render-target\"></div>');\n}));\nMeteor.startup(Template.body.renderToDocument);\n"]}

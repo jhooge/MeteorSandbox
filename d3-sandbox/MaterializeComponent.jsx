@@ -48,10 +48,10 @@ MaterializeComponent = React.createClass({
               </div>
 
               <h2>Carousel</h2>
-              <div class="carousel">
-                <a class="carousel-item" href="#one!"><img src="http://lorempixel.com/250/250/sports/1" /></a>
-                <a class="carousel-item" href="#two!"><img src="http://lorempixel.com/250/250/sports/2" /></a>
-                <a class="carousel-item" href="#three!"><img src="http://lorempixel.com/250/250/sports/3" /></a>
+              <div className="carousel">
+                <a className="carousel-item" href="#one!"><img src="http://lorempixel.com/250/250/sports/1" /></a>
+                <a className="carousel-item" href="#two!"><img src="http://lorempixel.com/250/250/sports/2" /></a>
+                <a className="carousel-item" href="#three!"><img src="http://lorempixel.com/250/250/sports/3" /></a>
               </div>
             </div>
         );
